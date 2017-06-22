@@ -1,0 +1,1 @@
+set(LLVM_LINK_COMPONENTS support)
